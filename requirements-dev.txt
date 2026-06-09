@@ -1,0 +1,5 @@
+comictagger>=1.6.0b7
+flake8
+isort>=5.10
+mypy
+pytest>=7
