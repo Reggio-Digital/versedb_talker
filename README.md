@@ -2,7 +2,7 @@
 
 [![VerseDB](assets/versedb-logo.png)](https://versedb.com)
 
-[![Latest release](https://img.shields.io/github/v/release/Reggio-Digital/versedb_talker)](https://github.com/Reggio-Digital/versedb_talker/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/versedbcom/versedb_talker)](https://github.com/versedbcom/versedb_talker/releases/latest)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![ComicTagger](https://img.shields.io/badge/ComicTagger-1.6.0b7%2B-orange)](https://github.com/comictagger/comictagger)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
@@ -35,7 +35,7 @@ How you install depends on how you run ComicTagger.
 
 The packaged builds don't have a Python environment to install into, so they load plugins from a folder:
 
-1. Download `versedb_talker-1.0.0-py3-none-any.whl` from the [latest release](https://github.com/Reggio-Digital/versedb_talker/releases/latest).
+1. Download `versedb_talker-1.0.0-py3-none-any.whl` from the [latest release](https://github.com/versedbcom/versedb_talker/releases/latest).
 2. Move the `.whl` into ComicTagger's plugin directory (leave it as a file, don't unzip it):
    - Windows: `%APPDATA%\ComicTagger\plugins`
    - macOS: `~/Library/Application Support/ComicTagger/plugins`
